@@ -1,65 +1,62 @@
-Sport World Taekwondo App – Pitch Deck
-(Microsoft Word Template)
+Sport World Taekwondo App – Project Idea
+What’s the Problem?
+Taekwondo athletes and coaches still rely on:
 
-Slide 1: Title Slide
-Project Name: Sport World Taekwondo
-Your Name: [Your Name]
-Date: [Submission Date]
-SDG Alignment: SDG 3 (Good Health & Well-being)
+Paper logbooks to track belt progress 🗒️
 
-Slide 2: Problem Statement
-Current Challenges in Taekwondo Training:
+Disorganized YouTube videos for training 🎥
 
-Athletes struggle to track belt progression digitally.
+Word-of-mouth for competition updates 📣
 
-Coaches lack tools to monitor student progress remotely.
+This makes training less efficient and harder to scale.
 
-No centralized platform for competitions/training resources.
+Our Solution
+A mobile app built with Flutter that:
 
-Statistic:
+Tracks belt progression digitally (like Duolingo for Taekwondo belts).
 
-*"60% of martial arts schools still use paper-based belt testing systems."*
+Curates training videos (kicks, forms, drills) in one place.
 
-Slide 3: Solution
-Sport World Taekwondo App:
+Sends alerts for local competitions and results.
 
-"A Flutter app providing real-time belt tracking, training videos, and competition updates for athletes and coaches."
+Who Will Use It?
+Athletes: See their next skills to master for each belt.
 
-Key Features:
+Coaches: Monitor students’ progress remotely.
 
-✔ Belt progression tracker
+Parents: Track their kids’ achievements.
 
-✔ Video tutorials (kicks, forms, drills)
+Tech We’ll Use
+Flutter: To build for both iOS and Android.
 
-✔ Event registration & live scores
+Firebase: For user accounts and data storage.
 
-Slide 4: Target Audience
-Primary Users:
+Simple UI: Easy navigation for all ages.
 
-Athletes: Ages 8-35, from white to black belts.
+What Makes It Unique?
+🥋 Made by martial artists, for martial artists (unlike generic fitness apps).
 
-Coaches: Manage dojos/students digitally.
+📱 Works offline (for dojos with bad internet).
 
-Fans: Follow competitions.
+🎯 Skill checklists to prepare for belt tests.
 
-Market Size:
+Future Possibilities
+AI to analyze kicks via phone camera.
 
-*80M+ taekwondo practitioners worldwide (World Taekwondo Federation, 2023).*
+Virtual sparring matchups with other dojos.
 
-Slide 5: Technology Stack
-Frontend: Flutter (iOS/Android)
-Backend: Firebase (Auth, Firestore)
-APIs: World Taekwondo Federation (event data)
-AI: Pose detection for form correction (future)
+Why This Matters
+Taekwondo is about discipline and growth – this app helps athletes train smarter while preserving the art’s traditions.
 
-Include Flutter + Firebase logos.
+Next Steps
+Build a basic version with belt tracking.
 
-Slide 6: Competitive Advantage
-Why Our App Stands Out:
+Test it with our local dojo.
 
-🥇 All-in-one platform (vs. separate apps for training/events).
+Expand features based on feedback.
 
-📴 Offline mode for dojos with poor internet.
+This version keeps it clear and actionable while avoiding pitch deck formality. Want to focus on a specific part? For example:
 
-🎮 Gamified learning (badges for belt skills).
+“How would the belt tracking work technically?”
 
+“What’s the simplest version we could build first?”
