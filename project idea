@@ -1,0 +1,65 @@
+Sport World Taekwondo App – Pitch Deck
+(Microsoft Word Template)
+
+Slide 1: Title Slide
+Project Name: Sport World Taekwondo
+Your Name: [Your Name]
+Date: [Submission Date]
+SDG Alignment: SDG 3 (Good Health & Well-being)
+
+Slide 2: Problem Statement
+Current Challenges in Taekwondo Training:
+
+Athletes struggle to track belt progression digitally.
+
+Coaches lack tools to monitor student progress remotely.
+
+No centralized platform for competitions/training resources.
+
+Statistic:
+
+*"60% of martial arts schools still use paper-based belt testing systems."*
+
+Slide 3: Solution
+Sport World Taekwondo App:
+
+"A Flutter app providing real-time belt tracking, training videos, and competition updates for athletes and coaches."
+
+Key Features:
+
+✔ Belt progression tracker
+
+✔ Video tutorials (kicks, forms, drills)
+
+✔ Event registration & live scores
+
+Slide 4: Target Audience
+Primary Users:
+
+Athletes: Ages 8-35, from white to black belts.
+
+Coaches: Manage dojos/students digitally.
+
+Fans: Follow competitions.
+
+Market Size:
+
+*80M+ taekwondo practitioners worldwide (World Taekwondo Federation, 2023).*
+
+Slide 5: Technology Stack
+Frontend: Flutter (iOS/Android)
+Backend: Firebase (Auth, Firestore)
+APIs: World Taekwondo Federation (event data)
+AI: Pose detection for form correction (future)
+
+Include Flutter + Firebase logos.
+
+Slide 6: Competitive Advantage
+Why Our App Stands Out:
+
+🥇 All-in-one platform (vs. separate apps for training/events).
+
+📴 Offline mode for dojos with poor internet.
+
+🎮 Gamified learning (badges for belt skills).
+
